@@ -1,5 +1,5 @@
 # Hospital-ER-Analysis (Interactive Dashboard creation using Power BI)
-## Overview
+# Overview
 This project leverages Power BI to analyze patient trends in a hospital, providing data-driven insights to optimize operations and enhance patient satisfaction. The interactive dashboard visualizes key metrics, enabling better decision-making for improved healthcare services.
 
 # Process
