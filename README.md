@@ -40,6 +40,7 @@ High waiting time is not the sole factor affecting satisfaction, indicating that
 ## 📌 **Conclusion & Recommendations**
 
 **Conclusions**
+
 The 44% increase in patient volume in 2020 highlights growing demand for healthcare services, leading to longer wait times but improved satisfaction scores. While Cardiology performs well, the Renal department struggles with the lowest satisfaction despite short wait times, suggesting other service quality factors impact patient experience. Additionally, feedback collection gaps limit a full understanding of patient concerns, requiring targeted improvements.
 
 **Recommendations**
