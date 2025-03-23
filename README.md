@@ -37,8 +37,23 @@ Renal had both the lowest satisfaction score (3.8) and shortest waiting time (32
 - Conclusion:
 High waiting time is not the sole factor affecting satisfaction, indicating that staff interaction, quality of care, and facility conditions may play a role. Future analyses should explore patient feedback, service quality, and communication effectiveness to enhance overall experience.
 
-# License
-This project is intended for educational use only and is not for commercial purposes. Redistribution or commercial use is not allowed without prior authorization.
+## 📌 **Conclusion & Recommendations**
+
+**Conclusions**
+The 44% increase in patient volume in 2020 highlights growing demand for healthcare services, leading to longer wait times but improved satisfaction scores. While Cardiology performs well, the Renal department struggles with the lowest satisfaction despite short wait times, suggesting other service quality factors impact patient experience. Additionally, feedback collection gaps limit a full understanding of patient concerns, requiring targeted improvements.
+
+**Recommendations**
+- Optimize Staffing & Scheduling – Increase resources on Mondays and weekends to manage peak patient loads efficiently.
+- Enhance Service Quality – Focus on patient-staff interaction, facility improvements, and personalized care, especially in low-satisfaction departments like Renal.
+- Improve Feedback Collection – Encourage more patient ratings to identify specific pain points and enhance data-driven decision-making.
+
+## 🚀 **How to Use This Dashboard**
+1. **Download the `.pbix` file** from the repository.
+2. **Open Power BI Desktop** and load the file.
+3. Use filters and slicers to explore insights interactively.
+
+---
+🔗 *For further improvements, feel free to fork this project and contribute!* 🚀
 
 
 
