@@ -8,7 +8,7 @@ This project leverages Power BI to analyze patient trends in a hospital, providi
 - Visualization & Insights – Create interactive charts, tables, and graphs to highlight key trends and patterns.
 
 # Dashboard
-![image](https://github.com/user-attachments/assets/b0125b10-e9f5-4bc3-aecb-0c686bd56962)
+![image](https://github.com/user-attachments/assets/6a80d99c-02d5-4d8f-9515-755191a2a85f)
 
 This Power BI dashboard provides a comprehensive analysis of patient trends from 2019 to 2020, offering key insights into total patient count, satisfaction scores, and waiting times.
 
@@ -23,7 +23,7 @@ Key Findings:
 - Conclusion:
 The 44% increase in patient volume in 2020 reflects a higher demand for healthcare services, leading to longer wait times but also improved satisfaction scores. Mondays and weekends see the highest patient visits, indicating the need for better scheduling and resource management. A large portion of patients remain unassigned to departments, while the Renal department has the lowest patient count, highlighting potential resource allocation inefficiencies. The nearly equal distribution of administrative and non-administrative staff supports operational balance, but further optimization could enhance efficiency and patient care.
 
-![image](https://github.com/user-attachments/assets/282bfde5-fbf8-47f7-b733-029fdc12c52f)
+![image](https://github.com/user-attachments/assets/bf3ffcad-5f64-4d38-a694-f1df0b43c81d)
 
 The dashboard analyzes patient satisfaction trends, highlighting key insights into ratings, waiting times, and department performance.
 
